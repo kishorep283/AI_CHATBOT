@@ -13,5 +13,5 @@
 1. Clone the Repository
 
 ```bash
-git clone https://github.com/kishorep283/Talent_scout-AI-TAsk.git
+git clone https://github.com/kishorep283/AI_CHATBOT/tree/main/Scout_AI
 cd  Talent_scout-AI-TAsk
